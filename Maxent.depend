@@ -1,0 +1,79 @@
+# depslib dependency file v1.0
+1348252487 source:/home/marek/c++/Maxent/main.cpp
+	<vector>
+	<map>
+	<string>
+	<iostream>
+	<fstream>
+	<cmath>
+	<maxent/maxentmodel.hpp>
+	"fc.h"
+	"word.h"
+	"sentence.h"
+
+1348157923 /home/marek/c++/Maxent/word.h
+	<string>
+
+1348157923 source:/home/marek/c++/Maxent/word.cpp
+	"word.h"
+	<string>
+
+1348085611 source:/home/marek/c++/Maxent/sentence.cpp
+	"sentence.h"
+
+1348085611 /home/marek/c++/Maxent/sentence.h
+	<vector>
+	"word.h"
+
+1348250833 source:/home/marek/c++/Maxent/fc.cpp
+	"fc.h"
+	<string>
+	<fstream>
+	<iostream>
+	<cmath>
+
+1348250796 /home/marek/c++/Maxent/fc.h
+	<string>
+	<fstream>
+	<iostream>
+	<cmath>
+
+1348157923 source:/home/maltik/C++/Maxent/word.cpp
+	"word.h"
+	<string>
+
+1348157923 /home/maltik/C++/Maxent/word.h
+	<string>
+
+1348085611 source:/home/maltik/C++/Maxent/sentence.cpp
+	"sentence.h"
+
+1348085611 /home/maltik/C++/Maxent/sentence.h
+	<vector>
+	"word.h"
+
+1348270654 source:/home/maltik/C++/Maxent/main.cpp
+	<vector>
+	<map>
+	<string>
+	<iostream>
+	<fstream>
+	<cmath>
+	<maxent/maxentmodel.hpp>
+	"fc.h"
+	"word.h"
+	"sentence.h"
+
+1348262467 /home/maltik/C++/Maxent/fc.h
+	<string>
+	<fstream>
+	<iostream>
+	<cmath>
+
+1348262470 source:/home/maltik/C++/Maxent/fc.cpp
+	"fc.h"
+	<string>
+	<fstream>
+	<iostream>
+	<cmath>
+

@@ -1,0 +1,26 @@
+# depslib dependency file v1.0
+1348257837 source:/home/marek/c++/Maxent/Test/main.cpp
+	<vector>
+	<map>
+	<string>
+	<iostream>
+	<fstream>
+	<cmath>
+	<maxent/maxentmodel.hpp>
+	"../fc.h"
+	"../word.h"
+	"../sentence.h"
+
+1348250796 /home/marek/c++/Maxent/fc.h
+	<string>
+	<fstream>
+	<iostream>
+	<cmath>
+
+1348157923 /home/marek/c++/Maxent/word.h
+	<string>
+
+1348085611 /home/marek/c++/Maxent/sentence.h
+	<vector>
+	"word.h"
+
